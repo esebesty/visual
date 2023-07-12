@@ -1,2 +1,3 @@
 # visual
-Processing, Touchdesigner, etc
+
+Processing, Touchdesigner and other stuff.
