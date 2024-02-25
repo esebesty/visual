@@ -8,7 +8,7 @@ void draw() {
   background(255);
   pushMatrix();
   translate(100, 100);
-  rotate(angle);
+  rotate(angle - HALF_PI);
   rect(0, 0, 50, 10);
   popMatrix();
 }
